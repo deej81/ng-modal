@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,aAAa,EAAC,MAAM,YAAY,CAAC;AAEzC,cAAc,sBAAsB,CAAC","file":"index.js","sourceRoot":"","sourcesContent":["export {NgModalModule} from './ng-modal';\r\n\r\nexport * from './ng-modal.component';"]}
